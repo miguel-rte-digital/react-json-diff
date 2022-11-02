@@ -82,5 +82,8 @@
     "monaco-editor": "^0.33.0",
     "react": ">=16.0.0",
     "react-dom": ">=16.0.0"
+  },
+  "resolutions": {
+    "@types/eslint": "8.4.3"
   }
 }
